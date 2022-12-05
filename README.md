@@ -4,7 +4,7 @@
 
 ### 👩‍💻 QA Engineer
 
-Atuo desde 2019 na área de testes de software, sou estudante de Ciência da Computação na [UNIFG](https://unifg.edu.br/graduacao-tradicional/ciencia-da-computacao/). Tenho experiência com testes manuais e automatizados Web e de API, apaixonada por desenvolvimento back-end (Java) e mobile (Flutter). Atualmente sou QA Analyst no [Instituto Atlântico](https://www.atlantico.com.br/).
+Atuo desde 2019 na área de testes de software, sou estudante de Ciência da Computação na [UNIFG](https://unifg.edu.br/graduacao-tradicional/ciencia-da-computacao/). Tenho experiência com testes manuais e automatizados Web e de API, apaixonada por desenvolvimento back-end e mobile. Atualmente sou QA Analyst no [Instituto Atlântico](https://www.atlantico.com.br/).
 
 
 ### 💻 Tecnologias
