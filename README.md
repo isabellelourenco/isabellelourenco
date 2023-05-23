@@ -1,10 +1,10 @@
-# Olá! Sou Isabelle Lourenço 👋
+# Hi there! I'm Isabelle Lourenço 👋
 
-<a href="https://www.linkedin.com/in/isabelle-lourenco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-### 👩‍💻 QA Engineer
-
-Atuo desde 2019 na área de testes de software, sou estudante de Ciência da Computação na [UNIFG](https://unifg.edu.br/graduacao-tradicional/ciencia-da-computacao/). Tenho experiência com testes manuais e automatizados Web e de API, apaixonada por desenvolvimento back-end e mobile. Atualmente sou QA Analyst no [Instituto Atlântico](https://www.atlantico.com.br/).
+- 🇧🇷 I'm a Brazilian Software Quality Engineer living in Recife
+- 🔭 I’m currently working on [@iatlantico](https://www.linkedin.com/company/instituto-atlantico/)
+- 🌱 I’m currently learning about Performance Tests and how to automate it 
+- 💬 Ask me about Software Quality and Automation Tests
+- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/isabelle-lourenco/)
 
 <div align="left">
   <a href="https://github.com/isabellelourenco">
